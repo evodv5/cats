@@ -4,6 +4,10 @@
     <list default="true" id="3ea3d646-87ab-4f5c-835a-aad169b502c2" name="Default" comment="test #2">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koty/build.gradle" afterPath="$PROJECT_DIR$/koty/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koty-webapp/build.gradle" afterPath="$PROJECT_DIR$/koty-webapp/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koty-application/koty-application.iml" afterPath="$PROJECT_DIR$/koty-application/koty-application.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koty-domain/koty-domain.iml" afterPath="$PROJECT_DIR$/koty-domain/koty-domain.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koty-webapp/koty-webapp.iml" afterPath="$PROJECT_DIR$/koty-webapp/koty-webapp.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koty/koty.iml" afterPath="$PROJECT_DIR$/koty/koty.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="test.iws" />
@@ -59,11 +63,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/koty-webapp/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5260586">
-              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -92,11 +96,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/koty/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.13843648">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -106,9 +110,12 @@
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+              <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
               <folding>
-                <marker date="1444580539348" expanded="true" signature="106121:106209" placeholder="..." />
+                <marker date="1444580617915" expanded="true" signature="107856:107898" placeholder="..." />
+                <marker date="1444580617915" expanded="true" signature="107856:107916" placeholder="..." />
+                <marker date="1444580617915" expanded="true" signature="107856:107929" placeholder="..." />
+                <marker date="1444580617915" expanded="true" signature="107856:107944" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -725,7 +732,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$/koty" value="8663924565855" />
+        <entry key="$PROJECT_DIR$/koty" value="8664345300302" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -951,8 +958,8 @@
         <option value="$PROJECT_DIR$/koty/properties.gradle" />
         <option value="$PROJECT_DIR$/koty-webapp/src/main/webapp/WEB-INF/applicationContext.xml" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/koty/build.gradle" />
         <option value="$PROJECT_DIR$/koty-webapp/build.gradle" />
+        <option value="$PROJECT_DIR$/koty/build.gradle" />
       </list>
     </option>
   </component>
@@ -1411,7 +1418,13 @@
       <option name="project" value="LOCAL" />
       <updated>1444580362768</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test #3">
+      <created>1444580608547</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1444580608547</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1458,7 +1471,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test #1" />
     <MESSAGE value="test #2" />
-    <option name="LAST_COMMIT_MESSAGE" value="test #2" />
+    <MESSAGE value="test #3" />
+    <option name="LAST_COMMIT_MESSAGE" value="test #3" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1766,18 +1780,13 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+          <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
           <folding>
-            <marker date="1444580539348" expanded="true" signature="106121:106209" placeholder="..." />
+            <marker date="1444580617915" expanded="true" signature="107856:107898" placeholder="..." />
+            <marker date="1444580617915" expanded="true" signature="107856:107916" placeholder="..." />
+            <marker date="1444580617915" expanded="true" signature="107856:107929" placeholder="..." />
+            <marker date="1444580617915" expanded="true" signature="107856:107944" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/koty/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1791,8 +1800,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/koty-webapp/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5260586">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koty/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13843648">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
           <folding />
         </state>
       </provider>

@@ -9,7 +9,7 @@ dependencies {
     compile group: 'javax.servlet', name: 'javax.servlet-api', version: '3.0.1'
 }
 
-war.archiveName "cats.war"
+war.archiveName "koty.war"
 
 task deploy(type: Copy) {
     from war.archivePath
