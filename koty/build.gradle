@@ -3,7 +3,7 @@ apply from: "properties.gradle"
 allprojects {
     apply plugin: 'java'
 
-    group 'pl.bb.koty'
+    group 'pl.cc.koty'
     version '0.1-SNAPSHOT'
 
     repositories {
