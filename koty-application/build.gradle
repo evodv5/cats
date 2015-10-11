@@ -1,0 +1,4 @@
+dependencies {
+    compile project (':koty-domain')
+    compile group: 'org.springframework', name: 'spring-core', version: '4.1.1.RELEASE'
+}

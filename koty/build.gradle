@@ -1,0 +1,16 @@
+apply from: "properties.gradle"
+
+allprojects {
+    apply plugin: 'java'
+
+    group 'pl.woszczak.koty'
+    version '0.1-SNAPSHOT'
+
+    repositories {
+        mavenCentral()
+    }
+
+    dependencies {
+        testCompile group: 'junit', name: 'junit', version: '4.11'
+    }
+}

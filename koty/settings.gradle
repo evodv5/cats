@@ -1,0 +1,8 @@
+rootProject.name = 'koty'
+includeFlat 'koty-application'
+includeFlat 'koty-domain'
+includeFlat 'koty-webapp'
+
+def serverHome = 'C:/dev/tools/tomcat8'
+
+
